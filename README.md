@@ -1,2 +1,1 @@
-# Atul510.github.io
-Dynamic Weather App 
+#Dynamic Weather App 
